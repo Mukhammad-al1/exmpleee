@@ -1,0 +1,48 @@
+/* add your CSS here */
+html {
+    font-family: Optima, "Segoe UI", Arial, sans-serif;
+    text-align: left;
+    width: 50%;
+    box-shadow: 0px 4px 8px, 0px 0px 10px;
+    margin: 0 auto;
+    border: 1px solid;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+img {
+    width: 300px
+}
+
+#interesting-fact {
+    font-style: italic
+}
+
+.fact-title {
+    font-weight: bold;
+}
+
+.info {
+    font-style: italic
+}
+
+ul {
+    list-style: none;
+    padding: 0
+}
+
+.animal-info {
+    border: 1px solid gray;
+    padding: 5px;
+}
+
+.animal-name {
+    padding: 5px;
+}
+
+.animal-whole {
+    border: 1px solid gray;
+    padding: 5px;
+}
